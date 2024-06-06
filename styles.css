@@ -250,3 +250,8 @@ h1 {
 .main__image--container {
   text-align: center;
 }
+
+#main__image{
+  height: 80%;
+  width: 80%;
+}
