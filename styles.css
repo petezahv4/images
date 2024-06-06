@@ -208,11 +208,11 @@ h1 {
 
 .main__btn {
   font-size: 1rem;
-  background-image: linear-gradient(to top, #ff0000 0%, #fe5196 100%);
+  background-image: linear-gradient(to top, #0000FF 0%, #000080 100%);
   padding: 14px 32px;
   border: none;
   border-radius: 4px;
-  color: #444;
+  color: #ff0000;
   margin-top: 2rem;
   cursor: pointer;
   position: relative;
