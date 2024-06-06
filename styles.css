@@ -223,7 +223,7 @@ h1 {
 .main__btn a {
   position: relative;
   z-index: 2;
-  color: #fff;
+  color: #F837FF;
   text-decoration: none;
 }
 
@@ -234,13 +234,13 @@ h1 {
   left: 0;
   width: 0;
   height: 100%;
-  background: #f837ff;
+  background: #0000FF;
   transition: all 0.35s;
   border-radius: 4px;
 }
 
 .main__btn:hover {
-  color: #0000FF;
+  color: #fff;
 }
 
 .main__btn:hover:after {
