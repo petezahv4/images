@@ -182,6 +182,7 @@ h1 {
   background-color: #ff8177;
   background-image: linear-gradient(to top, #ff0844 0%, #ffb199 100%;
   background-size: 100%;
+  max-width: 1300px;
   -webkit-background-clip: text;
   -moz-background-clip: text;
   -webkit-text-fill-color: transparent;
@@ -193,6 +194,7 @@ h1 {
   background-color: #ff8177;
   background-image: linear-gradient(to top, #b721ff 0%, #21d4fd 100%;
   background-size: 100%;
+  max-width: 1300px;
   -webkit-background-clip: text;
   -moz-background-clip: text;
   -webkit-text-fill-color: transparent;
