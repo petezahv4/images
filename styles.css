@@ -180,7 +180,7 @@ h1 {
 .main__content h1 {
   font-size: 4rem;
   background-color: #ff8177;
-  background-image: linear-gradient(to top, #ff0844 0%, #ffb199 100%;
+  background-image: linear-gradient(to top, #ff0844 0%, #ffb199 100%);
   background-size: 100%;
   max-width: 1300px;
   -webkit-background-clip: text;
@@ -192,7 +192,7 @@ h1 {
 .main__content h2 {
   font-size: 4rem;
   background-color: #ff8177;
-  background-image: linear-gradient(to top, #b721ff 0%, #21d4fd 100%;
+  background-image: linear-gradient(to top, #b721ff 0%, #21d4fd 100%);
   background-size: 100%;
   max-width: 1300px;
   -webkit-background-clip: text;
