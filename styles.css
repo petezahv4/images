@@ -253,7 +253,7 @@ h1 {
 
 #main__image{
   height: 80%;
-  width: 80%;
+  width: 75%;
 }
 
 @media screen and (max-width: 768px) {
