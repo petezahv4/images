@@ -1,5 +1,5 @@
 let postsData = "";
-const postsContainer = document.querySelector(".services__container");
+const postsContainer = document.querySelector(".posts-container");
 fetch(
   "https://gist.githubusercontent.com/jemimaabu/564beec0a30dbd7d63a90a153d2bc80b/raw/0b7e25ba0ebee6dbba216cfcfbae72d460a60f26/tutorial-levels"
 ).then(async (response) => {
