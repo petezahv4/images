@@ -45,10 +45,22 @@
   <div class="services">
     <h1>Games</h1>
     <form>
-      <div class="search">
-        <span class="search-icon material-symbols-outlined">search</span>
-        <input class="search-input" type="search" placeholder="Search">
-      </div>
+      <div class="search-bar">
+  <input 
+    id="search" 
+    type="search" 
+    placeholder="Start typing to search..." 
+    list="search-suggestions" 
+    autocomplete="off"
+  />
+  
+  <datalist id="search-suggestions">
+    <option value="1v1.lol">
+    <option value="2048">
+    <option value="Funny Shooter">
+    <option value="Tetris">
+  </datalist>
+</div>
     </form>
     <div class="services__container">
       <div class="services__card">
