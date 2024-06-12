@@ -27,7 +27,6 @@ ${categories
 `;
   postsContainer.append(post);
 };
-
 const search = document.getElementById("search");
 let debounceTimer;
 const debounce = (callback, time) => {
@@ -42,7 +41,6 @@ search.addEventListener(
   },
   false
 );
-
 const handleSearchPosts = (query) => {
   const searchQuery = query.trim().toLowerCase();
   
@@ -50,13 +48,11 @@ const handleSearchPosts = (query) => {
     return
   }
 }
-
   let searchResults = [...postsData].filter(
     (post) =>
       post.categories.some((category) => category.toLowerCase().includes(searchQuery)) ||
       post.title.toLowerCase().includes(query)
   );
-
 const searchDisplay = document.querySelector(".search-display");
 if (searchResults.length == 0) {
     searchDisplay.innerHTML = "No results found"
@@ -65,10 +61,8 @@ if (searchResults.length == 0) {
 } else {
     searchDisplay.innerHTML = `${searchResults.length} results found for your query: ${query}`
 }
-
 postsContainer.innerHTML = "";
 searchResults.map((post) => createPost(post));
-
 const resetPosts = () => {
   searchDisplay.innerHTML = ""
   postsContainer.innerHTML = "";
