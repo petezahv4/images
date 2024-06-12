@@ -308,24 +308,31 @@ h1 {
   }
 }
 
-.search {
-  width: max-content;
+
+header {
+  position: sticky;
+  top: -54px; /* value to scroll past the logo so just the search bar is sticky */
+  z-index: 2;
+}
+.search-bar {
   display: flex;
-  align-items: center;
-  padding: 14px;
-  border-radius: 28px;
-  background: #f6f6f6;
+  justify-content: center;
+  padding: 24px;
+}
+.search-bar input {
+  width: 50%;
+  min-width: 300px;
+  padding: 12px 24px;
+  border-radius: 24px;
+  font-size: 16px;
+  border: 0px;
+  outline: none;
+}
+.search-bar [list]::-webkit-list-button,
+.search-bar [list]::-webkit-calendar-picker-indicator {
+  display: none !important;
 }
 
-.search-input {
-  font-size: 16px;
-  font-family: 'Lexend', sans-serif;
-  color: #333333;
-  margin-left: 14px;
-  outline: none;
-  border: none;
-  background: transparent;
-}
 
 .services {
   background: #141414;
