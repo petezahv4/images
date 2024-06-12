@@ -388,7 +388,7 @@ h1 {
 
 .footer__container {
   background-color: #141414;
-  width: 1300px;
+  width: 1290px;
   padding: 5rem 0;
   display: flex;
   flex-direction: column;
@@ -427,7 +427,7 @@ h1 {
 }
 
 .footer__link--items h2 {
-  margin-bottom: 4px;
+  margin-bottom: 16px;
 }
 
 .footer__link--items > h2 {
