@@ -1,4 +1,3 @@
-
 h1 {
   color: red;
 }
@@ -491,7 +490,7 @@ h1 {
 }
 
 
-.container {
+.search__container {
     display: flex;
     flex-direction: column;
     align-items: center;
