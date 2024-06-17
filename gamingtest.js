@@ -1,8 +1,7 @@
-
 function search_animal() {
-  let input = document.getElementById('searchbar').value
+  let input = document.getElementById('services__container').value
   input = input.toLowerCase();
-  let x = document.getElementsByClassName('services__container');
+  let x = document.getElementsByClassName('animals');
 
   for (i = 0; i < x.length; i++) {
     if (!x[i].innerHTML.toLowerCase().includes(input)) {
