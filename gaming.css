@@ -393,6 +393,17 @@ header {
   color: #fff;
 }
 
+.services__card3 {
+  margin: 1rem;
+  height: 525px;
+  width: 400px;
+  border-radius: 4px;
+  background-image: linear-gradient(to bottom, rgba(0,0,0,0) 0%, rgba(17,17,17,0.6) 100%), url('images/2048.jpg');
+  background-size: cover;
+  position: relative;
+  color: #fff;
+}
+
 .services__car:nth-child(2) {
    background-image: linear-gradient(to bottom, rgba(0,0,0,0) 0%, rgba(17,17,17,0.6) 100%), url('images/justfall.jpg');
 }
@@ -408,6 +419,25 @@ header {
   top: 400px;
   left: 30px;
 }
+
+.services__card1 p {
+  position: absolute;
+  top: 400px;
+  left: 30px;
+}
+
+.services__card2 p {
+  position: absolute;
+  top: 400px;
+  left: 30px;
+}
+
+.services__card3 p {
+  position: absolute;
+  top: 400px;
+  left: 30px;
+}
+
 
 @media screen and (max-width: 960px) {
   .services {
