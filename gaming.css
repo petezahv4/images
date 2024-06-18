@@ -362,8 +362,8 @@ header {
 
 .services__card {
   margin: 1rem;
-  height: 525px;
-  width: 400px;
+  height: 375px;
+  width: 275px;
   border-radius: 4px;
   background-image: linear-gradient(to bottom, rgba(0,0,0,0) 0%, rgba(17,17,17,0.6) 100%), url('images/coolgaming.jpg');
   background-size: cover;
@@ -373,8 +373,8 @@ header {
 
 .services__card1 {
   margin: 1rem;
-  height: 525px;
-  width: 400px;
+  height: 375px;
+  width: 275px;
   border-radius: 4px;
   background-image: linear-gradient(to bottom, rgba(0,0,0,0) 0%, rgba(17,17,17,0.6) 100%), url('images/1v1.jpg');
   background-size: cover;
@@ -384,8 +384,8 @@ header {
 
 .services__card2 {
   margin: 1rem;
-  height: 525px;
-  width: 400px;
+  height: 375px;
+  width: 275px;
   border-radius: 4px;
   background-image: linear-gradient(to bottom, rgba(0,0,0,0) 0%, rgba(17,17,17,0.6) 100%), url('images/justfall.jpg');
   background-size: cover;
@@ -395,8 +395,8 @@ header {
 
 .services__card3 {
   margin: 1rem;
-  height: 525px;
-  width: 400px;
+  height: 375px;
+  width: 275px;
   border-radius: 4px;
   background-image: linear-gradient(to bottom, rgba(0,0,0,0) 0%, rgba(17,17,17,0.6) 100%), url('images/2048.jpg');
   background-size: cover;
@@ -406,8 +406,8 @@ header {
 
 .services__card4 {
   margin: 1rem;
-  height: 525px;
-  width: 400px;
+  height: 375px;
+  width: 275px;
   border-radius: 4px;
   background-image: linear-gradient(to bottom, rgba(0,0,0,0) 0%, rgba(17,17,17,0.6) 100%), url('images/2048couch.jpg');
   background-size: cover;
@@ -417,10 +417,65 @@ header {
 
 .services__card5 {
   margin: 1rem;
-  height: 525px;
-  width: 400px;
+  height: 375px;
+  width: 275px;
   border-radius: 4px;
   background-image: linear-gradient(to bottom, rgba(0,0,0,0) 0%, rgba(17,17,17,0.6) 100%), url('images/2048multitask.jpg');
+  background-size: cover;
+  position: relative;
+  color: #fff;
+}
+
+.services__card6 {
+  margin: 1rem;
+  height: 375px;
+  width: 275px;
+  border-radius: 4px;
+  background-image: linear-gradient(to bottom, rgba(0,0,0,0) 0%, rgba(17,17,17,0.6) 100%), url('images/ngon.jpg');
+  background-size: cover;
+  position: relative;
+  color: #fff;
+}
+
+.services__card7 {
+  margin: 1rem;
+  height: 375px;
+  width: 275px;
+  border-radius: 4px;
+  background-image: linear-gradient(to bottom, rgba(0,0,0,0) 0%, rgba(17,17,17,0.6) 100%), url('images/funnyshooter.jpg');
+  background-size: cover;
+  position: relative;
+  color: #fff;
+}
+
+.services__card8 {
+  margin: 1rem;
+  height: 375px;
+  width: 275px;
+  border-radius: 4px;
+  background-image: linear-gradient(to bottom, rgba(0,0,0,0) 0%, rgba(17,17,17,0.6) 100%), url('images/funnyshooter2.jpg');
+  background-size: cover;
+  position: relative;
+  color: #fff;
+}
+
+.services__card9 {
+  margin: 1rem;
+  height: 375px;
+  width: 275px;
+  border-radius: 4px;
+  background-image: linear-gradient(to bottom, rgba(0,0,0,0) 0%, rgba(17,17,17,0.6) 100%), url('images/retrobowl.jpg');
+  background-size: cover;
+  position: relative;
+  color: #fff;
+}
+
+.services__card10 {
+  margin: 1rem;
+  height: 375px;
+  width: 275px;
+  border-radius: 4px;
+  background-image: linear-gradient(to bottom, rgba(0,0,0,0) 0%, rgba(17,17,17,0.6) 100%), url('images/slope.jpg');
   background-size: cover;
   position: relative;
   color: #fff;
@@ -438,37 +493,67 @@ header {
 
 .services__card p {
   position: absolute;
-  top: 400px;
+  top: 275px;
   left: 30px;
 }
 
 .services__card1 p {
   position: absolute;
-  top: 400px;
+  top: 275px;
   left: 30px;
 }
 
 .services__card2 p {
   position: absolute;
-  top: 400px;
+  top: 275px;
   left: 30px;
 }
 
 .services__card3 p {
   position: absolute;
-  top: 400px;
+  top: 275px;
   left: 30px;
 }
 
 .services__card4 p {
   position: absolute;
-  top: 400px;
+  top: 275px;
   left: 30px;
 }
 
 .services__card5 p {
   position: absolute;
-  top: 400px;
+  top: 275px;
+  left: 30px;
+}
+
+.services__card6 p {
+  position: absolute;
+  top: 275px;
+  left: 30px;
+}
+
+.services__card7 p {
+  position: absolute;
+  top: 275px;
+  left: 30px;
+}
+
+.services__card8 p {
+  position: absolute;
+  top: 275px;
+  left: 30px;
+}
+
+.services__card9 p {
+  position: absolute;
+  top: 275px;
+  left: 30px;
+}
+
+.services__card10 p {
+  position: absolute;
+  top: 275px;
   left: 30px;
 }
 
