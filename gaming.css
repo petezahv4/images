@@ -481,6 +481,72 @@ header {
   color: #fff;
 }
 
+.services__card11 {
+  margin: 1rem;
+  height: 375px;
+  width: 275px;
+  border-radius: 4px;
+  background-image: linear-gradient(to bottom, rgba(0,0,0,0) 0%, rgba(17,17,17,0.6) 100%), url('images/slope2.jpg');
+  background-size: cover;
+  position: relative;
+  color: #fff;
+}
+
+.services__card12 {
+  margin: 1rem;
+  height: 375px;
+  width: 275px;
+  border-radius: 4px;
+  background-image: linear-gradient(to bottom, rgba(0,0,0,0) 0%, rgba(17,17,17,0.6) 100%), url('images/tetris.jpg');
+  background-size: cover;
+  position: relative;
+  color: #fff;
+}
+
+.services__card13 {
+  margin: 1rem;
+  height: 375px;
+  width: 275px;
+  border-radius: 4px;
+  background-image: linear-gradient(to bottom, rgba(0,0,0,0) 0%, rgba(17,17,17,0.6) 100%), url('images/tinyfishing.jpg');
+  background-size: cover;
+  position: relative;
+  color: #fff;
+}
+
+.services__card14 {
+  margin: 1rem;
+  height: 375px;
+  width: 275px;
+  border-radius: 4px;
+  background-image: linear-gradient(to bottom, rgba(0,0,0,0) 0%, rgba(17,17,17,0.6) 100%), url('images/tunnelrush2.jpg');
+  background-size: cover;
+  position: relative;
+  color: #fff;
+}
+
+.services__card15 {
+  margin: 1rem;
+  height: 375px;
+  width: 275px;
+  border-radius: 4px;
+  background-image: linear-gradient(to bottom, rgba(0,0,0,0) 0%, rgba(17,17,17,0.6) 100%), url('images/hexgl.jpg');
+  background-size: cover;
+  position: relative;
+  color: #fff;
+}
+
+.services__card16 {
+  margin: 1rem;
+  height: 375px;
+  width: 275px;
+  border-radius: 4px;
+  background-image: linear-gradient(to bottom, rgba(0,0,0,0) 0%, rgba(17,17,17,0.6) 100%), url('images/spacehuggers.jpg');
+  background-size: cover;
+  position: relative;
+  color: #fff;
+}
+
 .services__car:nth-child(2) {
    background-image: linear-gradient(to bottom, rgba(0,0,0,0) 0%, rgba(17,17,17,0.6) 100%), url('images/justfall.jpg');
 }
@@ -552,6 +618,42 @@ header {
 }
 
 .services__card10 p {
+  position: absolute;
+  top: 275px;
+  left: 30px;
+}
+
+.services__card11 p {
+  position: absolute;
+  top: 275px;
+  left: 30px;
+}
+
+.services__card12 p {
+  position: absolute;
+  top: 275px;
+  left: 30px;
+}
+
+.services__card13 p {
+  position: absolute;
+  top: 275px;
+  left: 30px;
+}
+
+.services__card14 p {
+  position: absolute;
+  top: 275px;
+  left: 30px;
+}
+
+.services__card15 p {
+  position: absolute;
+  top: 275px;
+  left: 30px;
+}
+
+.services__card16 p {
   position: absolute;
   top: 275px;
   left: 30px;
