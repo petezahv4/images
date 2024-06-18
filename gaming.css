@@ -547,6 +547,193 @@ header {
   color: #fff;
 }
 
+.services__card17 {
+  margin: 1rem;
+  height: 375px;
+  width: 275px;
+  border-radius: 4px;
+  background-image: linear-gradient(to bottom, rgba(0,0,0,0) 0%, rgba(17,17,17,0.6) 100%), url('images/cookie.jpg');
+  background-size: cover;
+  position: relative;
+  color: #fff;
+}
+
+.services__card18 {
+  margin: 1rem;
+  height: 375px;
+  width: 275px;
+  border-radius: 4px;
+  background-image: linear-gradient(to bottom, rgba(0,0,0,0) 0%, rgba(17,17,17,0.6) 100%), url('images/supermario.jpg');
+  background-size: cover;
+  position: relative;
+  color: #fff;
+}
+
+.services__card19 {
+  margin: 1rem;
+  height: 375px;
+  width: 275px;
+  border-radius: 4px;
+  background-image: linear-gradient(to bottom, rgba(0,0,0,0) 0%, rgba(17,17,17,0.6) 100%), url('images/fnaf.jpg');
+  background-size: cover;
+  position: relative;
+  color: #fff;
+}
+
+.services__card20 {
+  margin: 1rem;
+  height: 375px;
+  width: 275px;
+  border-radius: 4px;
+  background-image: linear-gradient(to bottom, rgba(0,0,0,0) 0%, rgba(17,17,17,0.6) 100%), url('images/minecraft.jpg');
+  background-size: cover;
+  position: relative;
+  color: #fff;
+}
+
+.services__card21 {
+  margin: 1rem;
+  height: 375px;
+  width: 275px;
+  border-radius: 4px;
+  background-image: linear-gradient(to bottom, rgba(0,0,0,0) 0%, rgba(17,17,17,0.6) 100%), url('images/moto3xm.jpg');
+  background-size: cover;
+  position: relative;
+  color: #fff;
+}
+
+.services__card22 {
+  margin: 1rem;
+  height: 375px;
+  width: 275px;
+  border-radius: 4px;
+  background-image: linear-gradient(to bottom, rgba(0,0,0,0) 0%, rgba(17,17,17,0.6) 100%), url('images/stickslasher.jpg');
+  background-size: cover;
+  position: relative;
+  color: #fff;
+}
+
+.services__card23 {
+  margin: 1rem;
+  height: 375px;
+  width: 275px;
+  border-radius: 4px;
+  background-image: linear-gradient(to bottom, rgba(0,0,0,0) 0%, rgba(17,17,17,0.6) 100%), url('images/stickmanhook.jpg');
+  background-size: cover;
+  position: relative;
+  color: #fff;
+}
+
+.services__card24 {
+  margin: 1rem;
+  height: 375px;
+  width: 275px;
+  border-radius: 4px;
+  background-image: linear-gradient(to bottom, rgba(0,0,0,0) 0%, rgba(17,17,17,0.6) 100%), url('images/bitlife.jpg');
+  background-size: cover;
+  position: relative;
+  color: #fff;
+}
+
+.services__card25 {
+  margin: 1rem;
+  height: 375px;
+  width: 275px;
+  border-radius: 4px;
+  background-image: linear-gradient(to bottom, rgba(0,0,0,0) 0%, rgba(17,17,17,0.6) 100%), url('images/aswc.jpg');
+  background-size: cover;
+  position: relative;
+  color: #fff;
+}
+
+.services__card26 {
+  margin: 1rem;
+  height: 375px;
+  width: 275px;
+  border-radius: 4px;
+  background-image: linear-gradient(to bottom, rgba(0,0,0,0) 0%, rgba(17,17,17,0.6) 100%), url('images/supercold.jpg');
+  background-size: cover;
+  position: relative;
+  color: #fff;
+}
+
+.services__card27 {
+  margin: 1rem;
+  height: 375px;
+  width: 275px;
+  border-radius: 4px;
+  background-image: linear-gradient(to bottom, rgba(0,0,0,0) 0%, rgba(17,17,17,0.6) 100%), url('images/csgo.jpg');
+  background-size: cover;
+  position: relative;
+  color: #fff;
+}
+
+.services__card28 {
+  margin: 1rem;
+  height: 375px;
+  width: 275px;
+  border-radius: 4px;
+  background-image: linear-gradient(to bottom, rgba(0,0,0,0) 0%, rgba(17,17,17,0.6) 100%), url('images/dino.jpg');
+  background-size: cover;
+  position: relative;
+  color: #fff;
+}
+
+.services__card29 {
+  margin: 1rem;
+  height: 375px;
+  width: 275px;
+  border-radius: 4px;
+  background-image: linear-gradient(to bottom, rgba(0,0,0,0) 0%, rgba(17,17,17,0.6) 100%), url('images/monkey.jpg');
+  background-size: cover;
+  position: relative;
+  color: #fff;
+}
+
+.services__card30 {
+  margin: 1rem;
+  height: 375px;
+  width: 275px;
+  border-radius: 4px;
+  background-image: linear-gradient(to bottom, rgba(0,0,0,0) 0%, rgba(17,17,17,0.6) 100%), url('images/10mins.jpg');
+  background-size: cover;
+  position: relative;
+  color: #fff;
+}
+
+.services__card31 {
+  margin: 1rem;
+  height: 375px;
+  width: 275px;
+  border-radius: 4px;
+  background-image: linear-gradient(to bottom, rgba(0,0,0,0) 0%, rgba(17,17,17,0.6) 100%), url('images/basbros.jpg');
+  background-size: cover;
+  position: relative;
+  color: #fff;
+}
+
+.services__card32 {
+  margin: 1rem;
+  height: 375px;
+  width: 275px;
+  border-radius: 4px;
+  background-image: linear-gradient(to bottom, rgba(0,0,0,0) 0%, rgba(17,17,17,0.6) 100%), url('images/totm2.jpg');
+  background-size: cover;
+  position: relative;
+  color: #fff;
+}
+
+.services__card33 {
+  margin: 1rem;
+  height: 375px;
+  width: 275px;
+  border-radius: 4px;
+  background-image: linear-gradient(to bottom, rgba(0,0,0,0) 0%, rgba(17,17,17,0.6) 100%), url('images/getaway.jpg');
+  background-size: cover;
+  position: relative;
+  color: #fff;
+}
+
 .services__car:nth-child(2) {
    background-image: linear-gradient(to bottom, rgba(0,0,0,0) 0%, rgba(17,17,17,0.6) 100%), url('images/justfall.jpg');
 }
@@ -557,7 +744,7 @@ header {
   left: 30px;
 }
 
-.services__card p {
+.services p {
   position: absolute;
   top: 275px;
   left: 30px;
