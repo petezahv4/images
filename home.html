@@ -62,9 +62,21 @@
         <button class="main__btn"><a href="/games.html">Get started</a></button>
       </div>
       <div class="services__card">
-        <h2>Wonder awaits</h2>
-        <p>Mega site</p>
-        <button class="main__btn"><a href="/proxies.html">Try out the proxies</a></button>
+        <h2>Open about:blank</h2>
+        <p>Doesn't appear on search history</p>
+        <button onclick="openGame()">Open about:blank</button>
+          <script>
+          function openGame() {
+          var win = window.open()
+          var url = "https://supergisfire.com/home.html"
+          var iframe = win.document.createElement('iframe')
+          iframe.style.width = "100%";
+          iframe.style.height = "100%";
+          iframe.style.border = "none";
+          iframe.src = url
+          win.document.body.appendChild(iframe)
+          }
+          </script>
     </div>
   </div>
     
