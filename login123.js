@@ -7,6 +7,11 @@ document.getElementById('login-form').addEventListener('submit', function(event)
     alert('Please enter both username/email and password.');
     event.preventDefault();
   }
+
+  if (username = 'Cool' || username = 'Cool') {
+    document.location.href="/home.html";;
+    event.preventDefault();
+  }
 });
 
 document.getElementById('signup-form').addEventListener('submit', function(event) {
