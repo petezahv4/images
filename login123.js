@@ -6,11 +6,16 @@ document.getElementById('login-form').addEventListener('submit', function(event)
   if (!username || !password) {
     alert('Please enter both username/email and password.');
     event.preventDefault();
+    event.preventAfter();
   }
-
-  if (username = 'Cool' || username = 'Cool') {
-    document.location.href="/home.html";;
-    event.preventDefault();
+  
+  if (username === "" || !username.includes("CoolKids12349")) {
+        document.location.href="/home.html";;
+        isValid = true;
+  }
+  if (username === "" || !username.includes("CoolKids12349")) {
+        document.location.href="/home.html";;
+        isValid = true;
   }
 });
 
