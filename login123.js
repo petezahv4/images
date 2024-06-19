@@ -9,9 +9,9 @@ document.getElementById('login-form').addEventListener('submit', function(event)
     event.preventAfter();
   }
   
-  if (username === "" || !username.includes("CoolKids12349")) {
+  if (!username.includes("CoolKids12349")) {
         document.location.href="/home.html";;
-        isValid = true;
+    
   }
   if (username === "" || !username.includes("CoolKids12349")) {
         document.location.href="/home.html";;
