@@ -756,6 +756,248 @@ header {
   color: #fff;
 }
 
+.services__card36 {
+  margin: 1rem;
+  height: 375px;
+  width: 275px;
+  border-radius: 4px;
+  background-image: linear-gradient(to bottom, rgba(0,0,0,0) 0%, rgba(17,17,17,0.6) 100%), url('images/2048.jpg');
+  background-size: cover;
+  position: relative;
+  color: #fff;
+}
+
+.services__card37 {
+  margin: 1rem;
+  height: 375px;
+  width: 275px;
+  border-radius: 4px;
+  background-image: linear-gradient(to bottom, rgba(0,0,0,0) 0%, rgba(17,17,17,0.6) 100%), url('images/avio.jpg');
+  background-size: cover;
+  position: relative;
+  color: #fff;
+}
+
+.services__card38 {
+  margin: 1rem;
+  height: 375px;
+  width: 275px;
+  border-radius: 4px;
+  background-image: linear-gradient(to bottom, rgba(0,0,0,0) 0%, rgba(17,17,17,0.6) 100%), url('images/among.jpg');
+  background-size: cover;
+  position: relative;
+  color: #fff;
+}
+
+.services__card39 {
+  margin: 1rem;
+  height: 375px;
+  width: 275px;
+  border-radius: 4px;
+  background-image: linear-gradient(to bottom, rgba(0,0,0,0) 0%, rgba(17,17,17,0.6) 100%), url('images/antiterr.jpg');
+  background-size: cover;
+  position: relative;
+  color: #fff;
+}
+
+.services__card40 {
+  margin: 1rem;
+  height: 375px;
+  width: 275px;
+  border-radius: 4px;
+  background-image: linear-gradient(to bottom, rgba(0,0,0,0) 0%, rgba(17,17,17,0.6) 100%), url('images/arcade.jpg');
+  background-size: cover;
+  position: relative;
+  color: #fff;
+}
+
+.services__card41 {
+  margin: 1rem;
+  height: 375px;
+  width: 275px;
+  border-radius: 4px;
+  background-image: linear-gradient(to bottom, rgba(0,0,0,0) 0%, rgba(17,17,17,0.6) 100%), url('images/awesome.jpg');
+  background-size: cover;
+  position: relative;
+  color: #fff;
+}
+
+.services__card42 {
+  margin: 1rem;
+  height: 375px;
+  width: 275px;
+  border-radius: 4px;
+  background-image: linear-gradient(to bottom, rgba(0,0,0,0) 0%, rgba(17,17,17,0.6) 100%), url('images/awesome2.jpg');
+  background-size: cover;
+  position: relative;
+  color: #fff;
+}
+
+.services__card43 {
+  margin: 1rem;
+  height: 375px;
+  width: 275px;
+  border-radius: 4px;
+  background-image: linear-gradient(to bottom, rgba(0,0,0,0) 0%, rgba(17,17,17,0.6) 100%), url('images/back.jpg');
+  background-size: cover;
+  position: relative;
+  color: #fff;
+}
+
+.services__card44 {
+  margin: 1rem;
+  height: 375px;
+  width: 275px;
+  border-radius: 4px;
+  background-image: linear-gradient(to bottom, rgba(0,0,0,0) 0%, rgba(17,17,17,0.6) 100%), url('images/backr.jpg');
+  background-size: cover;
+  position: relative;
+  color: #fff;
+}
+
+.services__card45 {
+  margin: 1rem;
+  height: 375px;
+  width: 275px;
+  border-radius: 4px;
+  background-image: linear-gradient(to bottom, rgba(0,0,0,0) 0%, rgba(17,17,17,0.6) 100%), url('images/ball2.jpg');
+  background-size: cover;
+  position: relative;
+  color: #fff;
+}
+
+.services__card46 {
+  margin: 1rem;
+  height: 375px;
+  width: 275px;
+  border-radius: 4px;
+  background-image: linear-gradient(to bottom, rgba(0,0,0,0) 0%, rgba(17,17,17,0.6) 100%), url('images/basket.jpg');
+  background-size: cover;
+  position: relative;
+  color: #fff;
+}
+
+.services__card47 {
+  margin: 1rem;
+  height: 375px;
+  width: 275px;
+  border-radius: 4px;
+  background-image: linear-gradient(to bottom, rgba(0,0,0,0) 0%, rgba(17,17,17,0.6) 100%), url('images/legends.jpg');
+  background-size: cover;
+  position: relative;
+  color: #fff;
+}
+
+.services__card48 {
+  margin: 1rem;
+  height: 375px;
+  width: 275px;
+  border-radius: 4px;
+  background-image: linear-gradient(to bottom, rgba(0,0,0,0) 0%, rgba(17,17,17,0.6) 100%), url('images/basketio.jpg');
+  background-size: cover;
+  position: relative;
+  color: #fff;
+}
+
+.services__card49 {
+  margin: 1rem;
+  height: 375px;
+  width: 275px;
+  border-radius: 4px;
+  background-image: linear-gradient(to bottom, rgba(0,0,0,0) 0%, rgba(17,17,17,0.6) 100%), url('images/bear.jpg');
+  background-size: cover;
+  position: relative;
+  color: #fff;
+}
+
+.services__card50 {
+  margin: 1rem;
+  height: 375px;
+  width: 275px;
+  border-radius: 4px;
+  background-image: linear-gradient(to bottom, rgba(0,0,0,0) 0%, rgba(17,17,17,0.6) 100%), url('images/blocky.jpg');
+  background-size: cover;
+  position: relative;
+  color: #fff;
+}
+
+.services__card51 {
+  margin: 1rem;
+  height: 375px;
+  width: 275px;
+  border-radius: 4px;
+  background-image: linear-gradient(to bottom, rgba(0,0,0,0) 0%, rgba(17,17,17,0.6) 100%), url('images/bob.jpg');
+  background-size: cover;
+  position: relative;
+  color: #fff;
+}
+
+.services__card52 {
+  margin: 1rem;
+  height: 375px;
+  width: 275px;
+  border-radius: 4px;
+  background-image: linear-gradient(to bottom, rgba(0,0,0,0) 0%, rgba(17,17,17,0.6) 100%), url('images/bound.jpg');
+  background-size: cover;
+  position: relative;
+  color: #fff;
+}
+
+.services__card53 {
+  margin: 1rem;
+  height: 375px;
+  width: 275px;
+  border-radius: 4px;
+  background-image: linear-gradient(to bottom, rgba(0,0,0,0) 0%, rgba(17,17,17,0.6) 100%), url('images/boxel.jpg');
+  background-size: cover;
+  position: relative;
+  color: #fff;
+}
+
+.services__card54 {
+  margin: 1rem;
+  height: 375px;
+  width: 275px;
+  border-radius: 4px;
+  background-image: linear-gradient(to bottom, rgba(0,0,0,0) 0%, rgba(17,17,17,0.6) 100%), url('images/burrito.jpg');
+  background-size: cover;
+  position: relative;
+  color: #fff;
+}
+
+.services__card55 {
+  margin: 1rem;
+  height: 375px;
+  width: 275px;
+  border-radius: 4px;
+  background-image: linear-gradient(to bottom, rgba(0,0,0,0) 0%, rgba(17,17,17,0.6) 100%), url('images/cardinal.jpg');
+  background-size: cover;
+  position: relative;
+  color: #fff;
+}
+
+.services__card56 {
+  margin: 1rem;
+  height: 375px;
+  width: 275px;
+  border-radius: 4px;
+  background-image: linear-gradient(to bottom, rgba(0,0,0,0) 0%, rgba(17,17,17,0.6) 100%), url('images/cave.jpg');
+  background-size: cover;
+  position: relative;
+  color: #fff;
+}
+
+.services__card57 {
+  margin: 1rem;
+  height: 375px;
+  width: 275px;
+  border-radius: 4px;
+  background-image: linear-gradient(to bottom, rgba(0,0,0,0) 0%, rgba(17,17,17,0.6) 100%), url('images/circloo.jpg');
+  background-size: cover;
+  position: relative;
+  color: #fff;
+}
+
 .services__car:nth-child(2) {
    background-image: linear-gradient(to bottom, rgba(0,0,0,0) 0%, rgba(17,17,17,0.6) 100%), url('images/justfall.jpg');
 }
@@ -767,102 +1009,6 @@ header {
 }
 
 .services p {
-  position: absolute;
-  top: 275px;
-  left: 30px;
-}
-
-.services__card1 p {
-  position: absolute;
-  top: 275px;
-  left: 30px;
-}
-
-.services__card2 p {
-  position: absolute;
-  top: 275px;
-  left: 30px;
-}
-
-.services__card3 p {
-  position: absolute;
-  top: 275px;
-  left: 30px;
-}
-
-.services__card4 p {
-  position: absolute;
-  top: 275px;
-  left: 30px;
-}
-
-.services__card5 p {
-  position: absolute;
-  top: 275px;
-  left: 30px;
-}
-
-.services__card6 p {
-  position: absolute;
-  top: 275px;
-  left: 30px;
-}
-
-.services__card7 p {
-  position: absolute;
-  top: 275px;
-  left: 30px;
-}
-
-.services__card8 p {
-  position: absolute;
-  top: 275px;
-  left: 30px;
-}
-
-.services__card9 p {
-  position: absolute;
-  top: 275px;
-  left: 30px;
-}
-
-.services__card10 p {
-  position: absolute;
-  top: 275px;
-  left: 30px;
-}
-
-.services__card11 p {
-  position: absolute;
-  top: 275px;
-  left: 30px;
-}
-
-.services__card12 p {
-  position: absolute;
-  top: 275px;
-  left: 30px;
-}
-
-.services__card13 p {
-  position: absolute;
-  top: 275px;
-  left: 30px;
-}
-
-.services__card14 p {
-  position: absolute;
-  top: 275px;
-  left: 30px;
-}
-
-.services__card15 p {
-  position: absolute;
-  top: 275px;
-  left: 30px;
-}
-
-.services__card16 p {
   position: absolute;
   top: 275px;
   left: 30px;
