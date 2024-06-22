@@ -1053,6 +1053,127 @@ header {
   color: #fff;
 }
 
+.services__card63 {
+  margin: 1rem;
+  height: 375px;
+  width: 275px;
+  border-radius: 4px;
+  background-image: linear-gradient(to bottom, rgba(0,0,0,0) 0%, rgba(17,17,17,0.6) 100%), url('images/death.jpg');
+  background-size: cover;
+  position: relative;
+  color: #fff;
+}
+
+.services__card64 {
+  margin: 1rem;
+  height: 375px;
+  width: 275px;
+  border-radius: 4px;
+  background-image: linear-gradient(to bottom, rgba(0,0,0,0) 0%, rgba(17,17,17,0.6) 100%), url('images/deaths.jpg');
+  background-size: cover;
+  position: relative;
+  color: #fff;
+}
+
+.services__card65 {
+  margin: 1rem;
+  height: 375px;
+  width: 275px;
+  border-radius: 4px;
+  background-image: linear-gradient(to bottom, rgba(0,0,0,0) 0%, rgba(17,17,17,0.6) 100%), url('images/dodge.jpg');
+  background-size: cover;
+  position: relative;
+  color: #fff;
+}
+
+.services__card66 {
+  margin: 1rem;
+  height: 375px;
+  width: 275px;
+  border-radius: 4px;
+  background-image: linear-gradient(to bottom, rgba(0,0,0,0) 0%, rgba(17,17,17,0.6) 100%), url('images/doge.jpg');
+  background-size: cover;
+  position: relative;
+  color: #fff;
+}
+
+.services__card67 {
+  margin: 1rem;
+  height: 375px;
+  width: 275px;
+  border-radius: 4px;
+  background-image: linear-gradient(to bottom, rgba(0,0,0,0) 0%, rgba(17,17,17,0.6) 100%), url('images/dontdrop.jpg');
+  background-size: cover;
+  position: relative;
+  color: #fff;
+}
+
+.services__card68 {
+  margin: 1rem;
+  height: 375px;
+  width: 275px;
+  border-radius: 4px;
+  background-image: linear-gradient(to bottom, rgba(0,0,0,0) 0%, rgba(17,17,17,0.6) 100%), url('images/dontfall.jpg');
+  background-size: cover;
+  position: relative;
+  color: #fff;
+}
+
+.services__card69 {
+  margin: 1rem;
+  height: 375px;
+  width: 275px;
+  border-radius: 4px;
+  background-image: linear-gradient(to bottom, rgba(0,0,0,0) 0%, rgba(17,17,17,0.6) 100%), url('images/drag.jpg');
+  background-size: cover;
+  position: relative;
+  color: #fff;
+}
+
+.services__card70 {
+  margin: 1rem;
+  height: 375px;
+  width: 275px;
+  border-radius: 4px;
+  background-image: linear-gradient(to bottom, rgba(0,0,0,0) 0%, rgba(17,17,17,0.6) 100%), url('images/dragonb.jpg');
+  background-size: cover;
+  position: relative;
+  color: #fff;
+}
+
+.services__card71 {
+  margin: 1rem;
+  height: 375px;
+  width: 275px;
+  border-radius: 4px;
+  background-image: linear-gradient(to bottom, rgba(0,0,0,0) 0%, rgba(17,17,17,0.6) 100%), url('images/driftb.jpg');
+  background-size: cover;
+  position: relative;
+  color: #fff;
+}
+
+.services__card72 {
+  margin: 1rem;
+  height: 375px;
+  width: 275px;
+  border-radius: 4px;
+  background-image: linear-gradient(to bottom, rgba(0,0,0,0) 0%, rgba(17,17,17,0.6) 100%), url('images/eggy.jpg');
+  background-size: cover;
+  position: relative;
+  color: #fff;
+}
+
+.services__card73 {
+  margin: 1rem;
+  height: 375px;
+  width: 275px;
+  border-radius: 4px;
+  background-image: linear-gradient(to bottom, rgba(0,0,0,0) 0%, rgba(17,17,17,0.6) 100%), url('images/elemental.jpg');
+  background-size: cover;
+  position: relative;
+  color: #fff;
+}
+
 .services__car:nth-child(2) {
    background-image: linear-gradient(to bottom, rgba(0,0,0,0) 0%, rgba(17,17,17,0.6) 100%), url('images/justfall.jpg');
 }
