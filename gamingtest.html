@@ -44,7 +44,7 @@
     </div>
   </nav>
   
-  <form class="srcbartn" action="search.html" >
+  <form class="srcbartn" action="gaming.html" >
 <input type="text" id="srch001" placeholder="Product Search.." name="search" onclick="listFunction()" onkeyup="searchFunction()" autocomplete = "off">
 <button type="submit" ><i class="fa fa-search"></i></button>
 <ul id="productline"></ul>
@@ -86,6 +86,46 @@ function    searchFunction(){
 }
 
 </script>
+  <!----- End search bar-----> 
+            
+            <div class="content">
+                <h1>Your Shop</h1>
+                <h2>Search</h2>
+                
+                <!-----Start Featured nav------->
+                
+                <nav class="product-filter">
+                    
+                    <h1>Toys</h1>
+                    
+                    <div class="sort">
+                        
+                        <div class="collection-sort">
+                            <label>Filter by:</label>
+                            <select id="sel1" onchange = "filterFunc()">
+                                <option   value="all toys">all toys</option>
+                                <option  value="gun">Gun</option>
+                                <option  value="doll">Doll</option>
+								<option  value="other">Other</option>
+                                
+                            </select>
+                        </div>
+                        
+                        <div>
+                            <label>Sort by:</label>
+                            <select id="sel2" onchange = "sortFunc()">
+                            <option   value="nosort">No sort</option>
+                                <option value="price">Price</option>
+                                <option value="featured">Featured</option>
+                            </select>
+                        </div>
+                        
+                    </div>
+                    
+                </nav>
+                
+                
+
   
   <datalist id="search-suggestions">
     <option <button class="main__btn"><a href="/1v1.html">1v1.lol</a></button>
