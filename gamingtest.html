@@ -43,89 +43,21 @@
       </ul>
     </div>
   </nav>
-  
-  <form class="srcbartn" action="gaming.html" >
-<input type="text" id="srch001" placeholder="Product Search.." name="search" onclick="listFunction()" onkeyup="searchFunction()" autocomplete = "off">
-<button type="submit" ><i class="fa fa-search"></i></button>
-<ul id="productline"></ul>
-</form>
-<script>
-
-function listFunction(){
-    var prdlin = document.getElementById("productline");
-    var allist = "" ;
-    for (i = 0 ; i < prodb.length ; i++)
-    {
-        allist += "<li id= 'liid" + i + "'><a href='gaming.html'>"  + prodb[i].pname + "</a><li>" ;
-        
-        
-    }
-    prdlin.innerHTML += allist;
-    var onclikoff = document.getElementById("srch001");
-    onclikoff.removeAttribute("onclick");
-}
-
-
-function    searchFunction(){
-    
-    var input, filter, i, txtValue ;
-    input = document.getElementById("srch001");
-    filter = input.value.toUpperCase();
-    
-    
-    for (i = 0; i < prodb.length; i++) {
-        var idname = "liid" + i ;
-        var iddom = document.getElementById (idname);
-        txtValue =  prodb[i].pname;
-        if (txtValue.toUpperCase().indexOf(filter) > -1) {
-            iddom.style.display = "";
-            } else {
-            iddom.style.display = "none";
-        }
-    }
-}
-
-</script>
-  <!----- End search bar-----> 
-            
-            <div class="content">
-                <h1>Your Shop</h1>
-                <h2>Search</h2>
-                
-                <!-----Start Featured nav------->
-                
-                <nav class="product-filter">
-                    
-                    <h1>Toys</h1>
-                    
-                    <div class="sort">
-                        
-                        <div class="collection-sort">
-                            <label>Filter by:</label>
-                            <select id="sel1" onchange = "filterFunc()">
-                                <option   value="all toys">all toys</option>
-                                <option  value="gun">Gun</option>
-                                <option  value="doll">Doll</option>
-								<option  value="other">Other</option>
-                                
-                            </select>
-                        </div>
-                        
-                        <div>
-                            <label>Sort by:</label>
-                            <select id="sel2" onchange = "sortFunc()">
-                            <option   value="nosort">No sort</option>
-                                <option value="price">Price</option>
-                                <option value="featured">Featured</option>
-                            </select>
-                        </div>
-                        
-                    </div>
-                    
-                </nav>
-                
-                
-
+  <script src="searchbar.js"></script>
+  <div class="services">
+    <h1>Games</h1>
+    <form>
+      <div class="search-bar">
+  <input 
+    id="search" 
+    type="search" 
+    placeholder="Start typing to search..." 
+    list="search-suggestions" 
+    autocomplete="off"
+  />
+        <script>
+          
+        </script>
   
   <datalist id="search-suggestions">
     <option <button class="main__btn"><a href="/1v1.html">1v1.lol</a></button>
