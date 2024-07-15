@@ -1358,6 +1358,952 @@ header {
   color: #fff;
 }
 
+.services__card88 {
+  margin: 1rem;
+  height: 375px;
+  width: 275px;
+  border-radius: 4px;
+  background-image: linear-gradient(to bottom, rgba(0,0,0,0) 0%, rgba(17,17,17,0.6) 100%), url('images/grow.jpg');
+  background-size: cover;
+  position: relative;
+  color: #fff;
+}
+
+.services__card89 {
+  margin: 1rem;
+  height: 375px;
+  width: 275px;
+  border-radius: 4px;
+  background-image: linear-gradient(to bottom, rgba(0,0,0,0) 0%, rgba(17,17,17,0.6) 100%), url('images/gun.jpg');
+  background-size: cover;
+  position: relative;
+  color: #fff;
+}
+
+.services__card90 {
+  margin: 1rem;
+  height: 375px;
+  width: 275px;
+  border-radius: 4px;
+  background-image: linear-gradient(to bottom, rgba(0,0,0,0) 0%, rgba(17,17,17,0.6) 100%), url('images/helios.jpg');
+  background-size: cover;
+  position: relative;
+  color: #fff;
+}
+
+.services__card91 {
+  margin: 1rem;
+  height: 375px;
+  width: 275px;
+  border-radius: 4px;
+  background-image: linear-gradient(to bottom, rgba(0,0,0,0) 0%, rgba(17,17,17,0.6) 100%), url('images/house.jpg');
+  background-size: cover;
+  position: relative;
+  color: #fff;
+}
+
+.services__card92 {
+  margin: 1rem;
+  height: 375px;
+  width: 275px;
+  border-radius: 4px;
+  background-image: linear-gradient(to bottom, rgba(0,0,0,0) 0%, rgba(17,17,17,0.6) 100%), url('images/icy.jpg');
+  background-size: cover;
+  position: relative;
+  color: #fff;
+}
+
+.services__card93 {
+  margin: 1rem;
+  height: 375px;
+  width: 275px;
+  border-radius: 4px;
+  background-image: linear-gradient(to bottom, rgba(0,0,0,0) 0%, rgba(17,17,17,0.6) 100%), url('images/idle.jpg');
+  background-size: cover;
+  position: relative;
+  color: #fff;
+}
+
+.services__card94 {
+  margin: 1rem;
+  height: 375px;
+  width: 275px;
+  border-radius: 4px;
+  background-image: linear-gradient(to bottom, rgba(0,0,0,0) 0%, rgba(17,17,17,0.6) 100%), url('images/jelly.jpg');
+  background-size: cover;
+  position: relative;
+  color: #fff;
+}
+
+.services__card95 {
+  margin: 1rem;
+  height: 375px;
+  width: 275px;
+  border-radius: 4px;
+  background-image: linear-gradient(to bottom, rgba(0,0,0,0) 0%, rgba(17,17,17,0.6) 100%), url('images/johnny.jpg');
+  background-size: cover;
+  position: relative;
+  color: #fff;
+}
+
+.services__card96 {
+  margin: 1rem;
+  height: 375px;
+  width: 275px;
+  border-radius: 4px;
+  background-image: linear-gradient(to bottom, rgba(0,0,0,0) 0%, rgba(17,17,17,0.6) 100%), url('images/jump.jpg');
+  background-size: cover;
+  position: relative;
+  color: #fff;
+}
+
+.services__card97 {
+  margin: 1rem;
+  height: 375px;
+  width: 275px;
+  border-radius: 4px;
+  background-image: linear-gradient(to bottom, rgba(0,0,0,0) 0%, rgba(17,17,17,0.6) 100%), url('images/klocki.jpg');
+  background-size: cover;
+  position: relative;
+  color: #fff;
+}
+
+.services__card98 {
+  margin: 1rem;
+  height: 375px;
+  width: 275px;
+  border-radius: 4px;
+  background-image: linear-gradient(to bottom, rgba(0,0,0,0) 0%, rgba(17,17,17,0.6) 100%), url('images/madness.jpg');
+  background-size: cover;
+  position: relative;
+  color: #fff;
+}
+
+.services__card99 {
+  margin: 1rem;
+  height: 375px;
+  width: 275px;
+  border-radius: 4px;
+  background-image: linear-gradient(to bottom, rgba(0,0,0,0) 0%, rgba(17,17,17,0.6) 100%), url('images/maptroid.jpg');
+  background-size: cover;
+  position: relative;
+  color: #fff;
+}
+
+.services__card100 {
+  margin: 1rem;
+  height: 375px;
+  width: 275px;
+  border-radius: 4px;
+  background-image: linear-gradient(to bottom, rgba(0,0,0,0) 0%, rgba(17,17,17,0.6) 100%), url('images/mari0.jpg');
+  background-size: cover;
+  position: relative;
+  color: #fff;
+}
+
+.services__card101 {
+  margin: 1rem;
+  height: 375px;
+  width: 275px;
+  border-radius: 4px;
+  background-image: linear-gradient(to bottom, rgba(0,0,0,0) 0%, rgba(17,17,17,0.6) 100%), url('images/mineclone.jpg');
+  background-size: cover;
+  position: relative;
+  color: #fff;
+}
+
+.services__card102 {
+  margin: 1rem;
+  height: 375px;
+  width: 275px;
+  border-radius: 4px;
+  background-image: linear-gradient(to bottom, rgba(0,0,0,0) 0%, rgba(17,17,17,0.6) 100%), url('images/mirror.jpg');
+  background-size: cover;
+  position: relative;
+  color: #fff;
+}
+
+.services__card103 {
+  margin: 1rem;
+  height: 375px;
+  width: 275px;
+  border-radius: 4px;
+  background-image: linear-gradient(to bottom, rgba(0,0,0,0) 0%, rgba(17,17,17,0.6) 100%), url('images/moto.jpg');
+  background-size: cover;
+  position: relative;
+  color: #fff;
+}
+
+.services__card104 {
+  margin: 1rem;
+  height: 375px;
+  width: 275px;
+  border-radius: 4px;
+  background-image: linear-gradient(to bottom, rgba(0,0,0,0) 0%, rgba(17,17,17,0.6) 100%), url('images/moto2.jpg');
+  background-size: cover;
+  position: relative;
+  color: #fff;
+}
+
+.services__card105 {
+  margin: 1rem;
+  height: 375px;
+  width: 275px;
+  border-radius: 4px;
+  background-image: linear-gradient(to bottom, rgba(0,0,0,0) 0%, rgba(17,17,17,0.6) 100%), url('images/moto3.jpg');
+  background-size: cover;
+  position: relative;
+  color: #fff;
+}
+
+.services__card106 {
+  margin: 1rem;
+  height: 375px;
+  width: 275px;
+  border-radius: 4px;
+  background-image: linear-gradient(to bottom, rgba(0,0,0,0) 0%, rgba(17,17,17,0.6) 100%), url('images/moto4.jpg');
+  background-size: cover;
+  position: relative;
+  color: #fff;
+}
+
+.services__card107 {
+  margin: 1rem;
+  height: 375px;
+  width: 275px;
+  border-radius: 4px;
+  background-image: linear-gradient(to bottom, rgba(0,0,0,0) 0%, rgba(17,17,17,0.6) 100%), url('images/moto50.jpg');
+  background-size: cover;
+  position: relative;
+  color: #fff;
+}
+
+.services__card108 {
+  margin: 1rem;
+  height: 375px;
+  width: 275px;
+  border-radius: 4px;
+  background-image: linear-gradient(to bottom, rgba(0,0,0,0) 0%, rgba(17,17,17,0.6) 100%), url('images/moto5.jpg');
+  background-size: cover;
+  position: relative;
+  color: #fff;
+}
+
+.services__card109 {
+  margin: 1rem;
+  height: 375px;
+  width: 275px;
+  border-radius: 4px;
+  background-image: linear-gradient(to bottom, rgba(0,0,0,0) 0%, rgba(17,17,17,0.6) 100%), url('images/moto6.jpg');
+  background-size: cover;
+  position: relative;
+  color: #fff;
+}
+
+.services__card110 {
+  margin: 1rem;
+  height: 375px;
+  width: 275px;
+  border-radius: 4px;
+  background-image: linear-gradient(to bottom, rgba(0,0,0,0) 0%, rgba(17,17,17,0.6) 100%), url('images/motomall.jpg');
+  background-size: cover;
+  position: relative;
+  color: #fff;
+}
+
+.services__card111 {
+  margin: 1rem;
+  height: 375px;
+  width: 275px;
+  border-radius: 4px;
+  background-image: linear-gradient(to bottom, rgba(0,0,0,0) 0%, rgba(17,17,17,0.6) 100%), url('images/ovo.jpg');
+  background-size: cover;
+  position: relative;
+  color: #fff;
+}
+
+.services__card112 {
+  margin: 1rem;
+  height: 375px;
+  width: 275px;
+  border-radius: 4px;
+  background-image: linear-gradient(to bottom, rgba(0,0,0,0) 0%, rgba(17,17,17,0.6) 100%), url('images/ovo144.jpg');
+  background-size: cover;
+  position: relative;
+  color: #fff;
+}
+
+.services__card113 {
+  margin: 1rem;
+  height: 375px;
+  width: 275px;
+  border-radius: 4px;
+  background-image: linear-gradient(to bottom, rgba(0,0,0,0) 0%, rgba(17,17,17,0.6) 100%), url('images/ovo2.jpg');
+  background-size: cover;
+  position: relative;
+  color: #fff;
+}
+
+.services__card114 {
+  margin: 1rem;
+  height: 375px;
+  width: 275px;
+  border-radius: 4px;
+  background-image: linear-gradient(to bottom, rgba(0,0,0,0) 0%, rgba(17,17,17,0.6) 100%), url('images/ovo3d.jpg');
+  background-size: cover;
+  position: relative;
+  color: #fff;
+}
+
+.services__card115 {
+  margin: 1rem;
+  height: 375px;
+  width: 275px;
+  border-radius: 4px;
+  background-image: linear-gradient(to bottom, rgba(0,0,0,0) 0%, rgba(17,17,17,0.6) 100%), url('images/pacman3d.jpg');
+  background-size: cover;
+  position: relative;
+  color: #fff;
+}
+
+.services__card116 {
+  margin: 1rem;
+  height: 375px;
+  width: 275px;
+  border-radius: 4px;
+  background-image: linear-gradient(to bottom, rgba(0,0,0,0) 0%, rgba(17,17,17,0.6) 100%), url('images/pacmanfps.jpg');
+  background-size: cover;
+  position: relative;
+  color: #fff;
+}
+
+.services__card117 {
+  margin: 1rem;
+  height: 375px;
+  width: 275px;
+  border-radius: 4px;
+  background-image: linear-gradient(to bottom, rgba(0,0,0,0) 0%, rgba(17,17,17,0.6) 100%), url('images/paper.jpg');
+  background-size: cover;
+  position: relative;
+  color: #fff;
+}
+
+.services__card118 {
+  margin: 1rem;
+  height: 375px;
+  width: 275px;
+  border-radius: 4px;
+  background-image: linear-gradient(to bottom, rgba(0,0,0,0) 0%, rgba(17,17,17,0.6) 100%), url('images/paper2.jpg');
+  background-size: cover;
+  position: relative;
+  color: #fff;
+}
+
+.services__card119 {
+  margin: 1rem;
+  height: 375px;
+  width: 275px;
+  border-radius: 4px;
+  background-image: linear-gradient(to bottom, rgba(0,0,0,0) 0%, rgba(17,17,17,0.6) 100%), url('images/peniore.jpg');
+  background-size: cover;
+  position: relative;
+  color: #fff;
+}
+
+.services__card120 {
+  margin: 1rem;
+  height: 375px;
+  width: 275px;
+  border-radius: 4px;
+  background-image: linear-gradient(to bottom, rgba(0,0,0,0) 0%, rgba(17,17,17,0.6) 100%), url('images/pixel.jpg');
+  background-size: cover;
+  position: relative;
+  color: #fff;
+}
+
+.services__card121 {
+  margin: 1rem;
+  height: 375px;
+  width: 275px;
+  border-radius: 4px;
+  background-image: linear-gradient(to bottom, rgba(0,0,0,0) 0%, rgba(17,17,17,0.6) 100%), url('images/pactation.jpg');
+  background-size: cover;
+  position: relative;
+  color: #fff;
+}
+
+.services__card122 {
+  margin: 1rem;
+  height: 375px;
+  width: 275px;
+  border-radius: 4px;
+  background-image: linear-gradient(to bottom, rgba(0,0,0,0) 0%, rgba(17,17,17,0.6) 100%), url('images/protektor.jpg');
+  background-size: cover;
+  position: relative;
+  color: #fff;
+}
+
+.services__card123 {
+  margin: 1rem;
+  height: 375px;
+  width: 275px;
+  border-radius: 4px;
+  background-image: linear-gradient(to bottom, rgba(0,0,0,0) 0%, rgba(17,17,17,0.6) 100%), url('images/push.jpg');
+  background-size: cover;
+  position: relative;
+  color: #fff;
+}
+
+.services__card124 {
+  margin: 1rem;
+  height: 375px;
+  width: 275px;
+  border-radius: 4px;
+  background-image: linear-gradient(to bottom, rgba(0,0,0,0) 0%, rgba(17,17,17,0.6) 100%), url('images/rabbit.jpg');
+  background-size: cover;
+  position: relative;
+  color: #fff;
+}
+
+.services__card125 {
+  margin: 1rem;
+  height: 375px;
+  width: 275px;
+  border-radius: 4px;
+  background-image: linear-gradient(to bottom, rgba(0,0,0,0) 0%, rgba(17,17,17,0.6) 100%), url('images/rabbit2.jpg');
+  background-size: cover;
+  position: relative;
+  color: #fff;
+}
+
+.services__card126 {
+  margin: 1rem;
+  height: 375px;
+  width: 275px;
+  border-radius: 4px;
+  background-image: linear-gradient(to bottom, rgba(0,0,0,0) 0%, rgba(17,17,17,0.6) 100%), url('images/rise.jpg');
+  background-size: cover;
+  position: relative;
+  color: #fff;
+}
+
+.services__card127 {
+  margin: 1rem;
+  height: 375px;
+  width: 275px;
+  border-radius: 4px;
+  background-image: linear-gradient(to bottom, rgba(0,0,0,0) 0%, rgba(17,17,17,0.6) 100%), url('images/rocking.jpg');
+  background-size: cover;
+  position: relative;
+  color: #fff;
+}
+
+.services__card128 {
+  margin: 1rem;
+  height: 375px;
+  width: 275px;
+  border-radius: 4px;
+  background-image: linear-gradient(to bottom, rgba(0,0,0,0) 0%, rgba(17,17,17,0.6) 100%), url('images/rooftop.jpg');
+  background-size: cover;
+  position: relative;
+  color: #fff;
+}
+
+.services__card129 {
+  margin: 1rem;
+  height: 375px;
+  width: 275px;
+  border-radius: 4px;
+  background-image: linear-gradient(to bottom, rgba(0,0,0,0) 0%, rgba(17,17,17,0.6) 100%), url('images/rooftop2.jpg');
+  background-size: cover;
+  position: relative;
+  color: #fff;
+}
+
+.services__card130 {
+  margin: 1rem;
+  height: 375px;
+  width: 275px;
+  border-radius: 4px;
+  background-image: linear-gradient(to bottom, rgba(0,0,0,0) 0%, rgba(17,17,17,0.6) 100%), url('images/root.jpg');
+  background-size: cover;
+  position: relative;
+  color: #fff;
+}
+
+.services__card131 {
+  margin: 1rem;
+  height: 375px;
+  width: 275px;
+  border-radius: 4px;
+  background-image: linear-gradient(to bottom, rgba(0,0,0,0) 0%, rgba(17,17,17,0.6) 100%), url('images/runaround.jpg');
+  background-size: cover;
+  position: relative;
+  color: #fff;
+}
+
+.services__card132 {
+  margin: 1rem;
+  height: 375px;
+  width: 275px;
+  border-radius: 4px;
+  background-image: linear-gradient(to bottom, rgba(0,0,0,0) 0%, rgba(17,17,17,0.6) 100%), url('images/scrambled.jpg');
+  background-size: cover;
+  position: relative;
+  color: #fff;
+}
+
+.services__card133 {
+  margin: 1rem;
+  height: 375px;
+  width: 275px;
+  border-radius: 4px;
+  background-image: linear-gradient(to bottom, rgba(0,0,0,0) 0%, rgba(17,17,17,0.6) 100%), url('images/senya.jpg');
+  background-size: cover;
+  position: relative;
+  color: #fff;
+}
+
+.services__card134 {
+  margin: 1rem;
+  height: 375px;
+  width: 275px;
+  border-radius: 4px;
+  background-image: linear-gradient(to bottom, rgba(0,0,0,0) 0%, rgba(17,17,17,0.6) 100%), url('images/shards.jpg');
+  background-size: cover;
+  position: relative;
+  color: #fff;
+}
+
+.services__card135 {
+  margin: 1rem;
+  height: 375px;
+  width: 275px;
+  border-radius: 4px;
+  background-image: linear-gradient(to bottom, rgba(0,0,0,0) 0%, rgba(17,17,17,0.6) 100%), url('images/shortlife.jpg');
+  background-size: cover;
+  position: relative;
+  color: #fff;
+}
+
+.services__card136 {
+  margin: 1rem;
+  height: 375px;
+  width: 275px;
+  border-radius: 4px;
+  background-image: linear-gradient(to bottom, rgba(0,0,0,0) 0%, rgba(17,17,17,0.6) 100%), url('images/shortride.jpg');
+  background-size: cover;
+  position: relative;
+  color: #fff;
+}
+
+.services__card137 {
+  margin: 1rem;
+  height: 375px;
+  width: 275px;
+  border-radius: 4px;
+  background-image: linear-gradient(to bottom, rgba(0,0,0,0) 0%, rgba(17,17,17,0.6) 100%), url('images/skyblock.jpg');
+  background-size: cover;
+  position: relative;
+  color: #fff;
+}
+
+.services__card138 {
+  margin: 1rem;
+  height: 375px;
+  width: 275px;
+  border-radius: 4px;
+  background-image: linear-gradient(to bottom, rgba(0,0,0,0) 0%, rgba(17,17,17,0.6) 100%), url('images/slice.jpg');
+  background-size: cover;
+  position: relative;
+  color: #fff;
+}
+
+.services__card139 {
+  margin: 1rem;
+  height: 375px;
+  width: 275px;
+  border-radius: 4px;
+  background-image: linear-gradient(to bottom, rgba(0,0,0,0) 0%, rgba(17,17,17,0.6) 100%), url('images/slime.jpg');
+  background-size: cover;
+  position: relative;
+  color: #fff;
+}
+
+.services__card140 {
+  margin: 1rem;
+  height: 375px;
+  width: 275px;
+  border-radius: 4px;
+  background-image: linear-gradient(to bottom, rgba(0,0,0,0) 0%, rgba(17,17,17,0.6) 100%), url('images/slopeball.jpg');
+  background-size: cover;
+  position: relative;
+  color: #fff;
+}
+
+.services__card141 {
+  margin: 1rem;
+  height: 375px;
+  width: 275px;
+  border-radius: 4px;
+  background-image: linear-gradient(to bottom, rgba(0,0,0,0) 0%, rgba(17,17,17,0.6) 100%), url('images/snake.jpg');
+  background-size: cover;
+  position: relative;
+  color: #fff;
+}
+
+.services__card142 {
+  margin: 1rem;
+  height: 375px;
+  width: 275px;
+  border-radius: 4px;
+  background-image: linear-gradient(to bottom, rgba(0,0,0,0) 0%, rgba(17,17,17,0.6) 100%), url('images/sonicrevert.jpg');
+  background-size: cover;
+  position: relative;
+  color: #fff;
+}
+
+.services__card143 {
+  margin: 1rem;
+  height: 375px;
+  width: 275px;
+  border-radius: 4px;
+  background-image: linear-gradient(to bottom, rgba(0,0,0,0) 0%, rgba(17,17,17,0.6) 100%), url('images/space.jpg');
+  background-size: cover;
+  position: relative;
+  color: #fff;
+}
+
+.services__card144 {
+  margin: 1rem;
+  height: 375px;
+  width: 275px;
+  border-radius: 4px;
+  background-image: linear-gradient(to bottom, rgba(0,0,0,0) 0%, rgba(17,17,17,0.6) 100%), url('images/stickjet.jpg');
+  background-size: cover;
+  position: relative;
+  color: #fff;
+}
+
+.services__card145 {
+  margin: 1rem;
+  height: 375px;
+  width: 275px;
+  border-radius: 4px;
+  background-image: linear-gradient(to bottom, rgba(0,0,0,0) 0%, rgba(17,17,17,0.6) 100%), url('images/stickmanb.jpg');
+  background-size: cover;
+  position: relative;
+  color: #fff;
+}
+
+.services__card146 {
+  margin: 1rem;
+  height: 375px;
+  width: 275px;
+  border-radius: 4px;
+  background-image: linear-gradient(to bottom, rgba(0,0,0,0) 0%, rgba(17,17,17,0.6) 100%), url('images/stickmanb2.jpg');
+  background-size: cover;
+  position: relative;
+  color: #fff;
+}
+
+.services__card147 {
+  margin: 1rem;
+  height: 375px;
+  width: 275px;
+  border-radius: 4px;
+  background-image: linear-gradient(to bottom, rgba(0,0,0,0) 0%, rgba(17,17,17,0.6) 100%), url('images/stickbattle.jpg');
+  background-size: cover;
+  position: relative;
+  color: #fff;
+}
+
+.services__card148 {
+  margin: 1rem;
+  height: 375px;
+  width: 275px;
+  border-radius: 4px;
+  background-image: linear-gradient(to bottom, rgba(0,0,0,0) 0%, rgba(17,17,17,0.6) 100%), url('images/subway.jpg');
+  background-size: cover;
+  position: relative;
+  color: #fff;
+}
+
+.services__card149 {
+  margin: 1rem;
+  height: 375px;
+  width: 275px;
+  border-radius: 4px;
+  background-image: linear-gradient(to bottom, rgba(0,0,0,0) 0%, rgba(17,17,17,0.6) 100%), url('images/superhero.jpg');
+  background-size: cover;
+  position: relative;
+  color: #fff;
+}
+
+.services__card150 {
+  margin: 1rem;
+  height: 375px;
+  width: 275px;
+  border-radius: 4px;
+  background-image: linear-gradient(to bottom, rgba(0,0,0,0) 0%, rgba(17,17,17,0.6) 100%), url('images/superhot.jpg');
+  background-size: cover;
+  position: relative;
+  color: #fff;
+}
+
+.services__card151 {
+  margin: 1rem;
+  height: 375px;
+  width: 275px;
+  border-radius: 4px;
+  background-image: linear-gradient(to bottom, rgba(0,0,0,0) 0%, rgba(17,17,17,0.6) 100%), url('images/supermario64.jpg');
+  background-size: cover;
+  position: relative;
+  color: #fff;
+}
+
+.services__card152 {
+  margin: 1rem;
+  height: 375px;
+  width: 275px;
+  border-radius: 4px;
+  background-image: linear-gradient(to bottom, rgba(0,0,0,0) 0%, rgba(17,17,17,0.6) 100%), url('images/superpufferfish.jpg');
+  background-size: cover;
+  position: relative;
+  color: #fff;
+}
+
+.services__card153 {
+  margin: 1rem;
+  height: 375px;
+  width: 275px;
+  border-radius: 4px;
+  background-image: linear-gradient(to bottom, rgba(0,0,0,0) 0%, rgba(17,17,17,0.6) 100%), url('images/tale.jpg');
+  background-size: cover;
+  position: relative;
+  color: #fff;
+}
+
+.services__card154 {
+  margin: 1rem;
+  height: 375px;
+  width: 275px;
+  border-radius: 4px;
+  background-image: linear-gradient(to bottom, rgba(0,0,0,0) 0%, rgba(17,17,17,0.6) 100%), url('images/bowling.jpg');
+  background-size: cover;
+  position: relative;
+  color: #fff;
+}
+
+.services__card155 {
+  margin: 1rem;
+  height: 375px;
+  width: 275px;
+  border-radius: 4px;
+  background-image: linear-gradient(to bottom, rgba(0,0,0,0) 0%, rgba(17,17,17,0.6) 100%), url('images/thelittle.jpg');
+  background-size: cover;
+  position: relative;
+  color: #fff;
+}
+
+.services__card156 {
+  margin: 1rem;
+  height: 375px;
+  width: 275px;
+  border-radius: 4px;
+  background-image: linear-gradient(to bottom, rgba(0,0,0,0) 0%, rgba(17,17,17,0.6) 100%), url('images/timeshooter.jpg');
+  background-size: cover;
+  position: relative;
+  color: #fff;
+}
+
+.services__card157 {
+  margin: 1rem;
+  height: 375px;
+  width: 275px;
+  border-radius: 4px;
+  background-image: linear-gradient(to bottom, rgba(0,0,0,0) 0%, rgba(17,17,17,0.6) 100%), url('images/tiny.jpg');
+  background-size: cover;
+  position: relative;
+  color: #fff;
+}
+
+.services__card158 {
+  margin: 1rem;
+  height: 375px;
+  width: 275px;
+  border-radius: 4px;
+  background-image: linear-gradient(to bottom, rgba(0,0,0,0) 0%, rgba(17,17,17,0.6) 100%), url('images/tough.jpg');
+  background-size: cover;
+  position: relative;
+  color: #fff;
+}
+
+.services__card159 {
+  margin: 1rem;
+  height: 375px;
+  width: 275px;
+  border-radius: 4px;
+  background-image: linear-gradient(to bottom, rgba(0,0,0,0) 0%, rgba(17,17,17,0.6) 100%), url('images/tunnelz.jpg');
+  background-size: cover;
+  position: relative;
+  color: #fff;
+}
+
+.services__card160 {
+  margin: 1rem;
+  height: 375px;
+  width: 275px;
+  border-radius: 4px;
+  background-image: linear-gradient(to bottom, rgba(0,0,0,0) 0%, rgba(17,17,17,0.6) 100%), url('images/ufo.jpg');
+  background-size: cover;
+  position: relative;
+  color: #fff;
+}
+
+.services__card161 {
+  margin: 1rem;
+  height: 375px;
+  width: 275px;
+  border-radius: 4px;
+  background-image: linear-gradient(to bottom, rgba(0,0,0,0) 0%, rgba(17,17,17,0.6) 100%), url('images/upleft.jpg');
+  background-size: cover;
+  position: relative;
+  color: #fff;
+}
+
+.services__card162 {
+  margin: 1rem;
+  height: 375px;
+  width: 275px;
+  border-radius: 4px;
+  background-image: linear-gradient(to bottom, rgba(0,0,0,0) 0%, rgba(17,17,17,0.6) 100%), url('images/vex3.jpg');
+  background-size: cover;
+  position: relative;
+  color: #fff;
+}
+
+.services__card163 {
+  margin: 1rem;
+  height: 375px;
+  width: 275px;
+  border-radius: 4px;
+  background-image: linear-gradient(to bottom, rgba(0,0,0,0) 0%, rgba(17,17,17,0.6) 100%), url('images/vex4.jpg');
+  background-size: cover;
+  position: relative;
+  color: #fff;
+}
+
+.services__card164 {
+  margin: 1rem;
+  height: 375px;
+  width: 275px;
+  border-radius: 4px;
+  background-image: linear-gradient(to bottom, rgba(0,0,0,0) 0%, rgba(17,17,17,0.6) 100%), url('images/vex5.jpg');
+  background-size: cover;
+  position: relative;
+  color: #fff;
+}
+
+.services__card165 {
+  margin: 1rem;
+  height: 375px;
+  width: 275px;
+  border-radius: 4px;
+  background-image: linear-gradient(to bottom, rgba(0,0,0,0) 0%, rgba(17,17,17,0.6) 100%), url('images/vex6.jpg');
+  background-size: cover;
+  position: relative;
+  color: #fff;
+}
+
+.services__card166 {
+  margin: 1rem;
+  height: 375px;
+  width: 275px;
+  border-radius: 4px;
+  background-image: linear-gradient(to bottom, rgba(0,0,0,0) 0%, rgba(17,17,17,0.6) 100%), url('images/vex7.jpg');
+  background-size: cover;
+  position: relative;
+  color: #fff;
+}
+
+.services__card167 {
+  margin: 1rem;
+  height: 375px;
+  width: 275px;
+  border-radius: 4px;
+  background-image: linear-gradient(to bottom, rgba(0,0,0,0) 0%, rgba(17,17,17,0.6) 100%), url('images/wheely.jpg');
+  background-size: cover;
+  position: relative;
+  color: #fff;
+}
+
+.services__card168 {
+  margin: 1rem;
+  height: 375px;
+  width: 275px;
+  border-radius: 4px;
+  background-image: linear-gradient(to bottom, rgba(0,0,0,0) 0%, rgba(17,17,17,0.6) 100%), url('images/wheely7.jpg');
+  background-size: cover;
+  position: relative;
+  color: #fff;
+}
+
+.services__card169 {
+  margin: 1rem;
+  height: 375px;
+  width: 275px;
+  border-radius: 4px;
+  background-image: linear-gradient(to bottom, rgba(0,0,0,0) 0%, rgba(17,17,17,0.6) 100%), url('images/wheely8.jpg');
+  background-size: cover;
+  position: relative;
+  color: #fff;
+}
+
+.services__card170 {
+  margin: 1rem;
+  height: 375px;
+  width: 275px;
+  border-radius: 4px;
+  background-image: linear-gradient(to bottom, rgba(0,0,0,0) 0%, rgba(17,17,17,0.6) 100%), url('images/white.jpg');
+  background-size: cover;
+  position: relative;
+  color: #fff;
+}
+
+.services__card171 {
+  margin: 1rem;
+  height: 375px;
+  width: 275px;
+  border-radius: 4px;
+  background-image: linear-gradient(to bottom, rgba(0,0,0,0) 0%, rgba(17,17,17,0.6) 100%), url('images/price.jpg');
+  background-size: cover;
+  position: relative;
+  color: #fff;
+}
+
+.services__card172 {
+  margin: 1rem;
+  height: 375px;
+  width: 275px;
+  border-radius: 4px;
+  background-image: linear-gradient(to bottom, rgba(0,0,0,0) 0%, rgba(17,17,17,0.6) 100%), url('images/worlds.jpg');
+  background-size: cover;
+  position: relative;
+  color: #fff;
+}
+
+.services__card173 {
+  margin: 1rem;
+  height: 375px;
+  width: 275px;
+  border-radius: 4px;
+  background-image: linear-gradient(to bottom, rgba(0,0,0,0) 0%, rgba(17,17,17,0.6) 100%), url('images/zrist.jpg');
+  background-size: cover;
+  position: relative;
+  color: #fff;
+}
+
 .services__car:nth-child(2) {
    background-image: linear-gradient(to bottom, rgba(0,0,0,0) 0%, rgba(17,17,17,0.6) 100%), url('images/justfall.jpg');
 }
