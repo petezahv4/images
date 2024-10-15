@@ -1,5 +1,4 @@
-<script>
-          function openGame() {
+function openGame() {
           var win = window.open()
           var url = "https://eggwarfare.com"
           var iframe = win.document.createElement('iframe')
@@ -9,4 +8,3 @@
           iframe.src = url
           win.document.body.appendChild(iframe)
           }
-          </script>
